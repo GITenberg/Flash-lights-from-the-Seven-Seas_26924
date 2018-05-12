@@ -1,0 +1,36 @@
+_repo: Flash-lights-from-the-Seven-Seas_26924
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: McConnell, Francis John
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '3076'
+    url: http://www.gutenberg.org/2009/agents/3076
+    wikipedia: http://en.wikipedia.org/wiki/Francis_John_McConnell
+covers:
+- cover_type: archival
+  image_path: 26924-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stidger, William L. (William Le Roy)
+    alias: Stidger, William Le Roy
+    birthdate: 1885
+    deathdate: 1949
+    gutenberg_agent_id: '2342'
+    url: http://www.gutenberg.org/2009/agents/2342
+description: ''
+gutenberg_issued: '2008-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26924'
+  lccn: '21020644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'East Asia -- Description and travel'
+- !lcc 'DS'
+title: Flash-lights from the Seven Seas
+url: http://www.gutenberg.org/ebooks/26924
